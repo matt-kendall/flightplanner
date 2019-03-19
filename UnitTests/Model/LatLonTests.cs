@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace FlightPlanner.UnitTests
 {
     [TestClass]
-    public class LatLonTest
+    public class LatLonTests
     {
         [TestMethod]
         public void ValidLatLonAllowed()
